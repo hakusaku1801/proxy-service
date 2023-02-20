@@ -1,0 +1,272 @@
+ <!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="ハクサク,はくさく,Hakusaku,art commission,Japan to Malaysia proxy service,Buy from Japan">
+<meta name="description" content="ハクサク HAKUSAKU, at your service ☆★ Watercolor & digital artist | Website Developer | Proxy service from Japan to Malaysia & Singapore. I can help you buy things from Japan and ship to Malaysia/Singapore.">
+<meta name="viewport" content="width=device-width">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>ハクサク HAKUSAKU, at your service ☆★</title>
+<!-- TemplateEndEditable -->
+<link href="../script/boilerplate.css" rel="stylesheet" type="text/css">
+<link href="../css/main.css" rel="stylesheet" type="text/css">
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="../script/respond.min.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+
+<!-- ナビゲーション -->
+<header>
+	<nav>
+		<input type="checkbox" name="" id="">
+		<div class="hamburger">
+			<span class="line line1"></span>
+			<span class="line line2"></span>
+			<span class="line line3"></span>
+		</div><!-- hamburger -->
+		<ul>
+			<a href="../index.html">Home</a>
+            <a href="../index.html#workflow">Workflow</a>
+			<a href="../index.html#fees">Fees &amp; Charges</a>
+            <a href="../FAQ.html">FAQ</a>
+            <a href="../index.html#contact">Contact</a>
+		</ul>
+	</nav>
+</header>
+
+<!-- TemplateBeginEditable name="CONTENT" -->
+
+<!-- トップ画像 -->
+<div class="parallax" id="top_img">
+    <!-- ロゴ -->
+    <div id="logo">
+        <div class="icon"></div><!-- icon -->
+        <h1>ハクサク<br><span>HAKUSAKU</span></h1>
+        <p class="profile" style="text-align:center; margin-top:20px;">ARTIST　|　WEB DEVELOPER　|　PROXY SERVICE</p>
+    </div><!-- logo -->
+</div><!-- top_img -->
+
+<!-- 購入代行 -->
+<div id="proxy">
+	<div class="content">
+        <h1 class="title">PROXY SERVICE</h1>
+        <h2>Buy from <span style="color:tomato;">Japan</span> &amp;<br>
+        ship to Malaysia or Singapore</h2>
+        <p>Many Japanese shops don't ship internationally. HAKUSAKU can help you purchase your items from <b><u>online stores</u></b> and even <b><u>physical shops</u></b> while she's here in Japan. The items will be shipped domestically to HAKUSAKU's address, and she will then pack your items carefully before shipping the items internationally to you with tracking number provided.</p>
+        <div class="img"><img src="../images/Proxy_service.png" width="100%" alt="Proxy service image"></div><!-- img -->
+	</div><!-- content -->
+</div><!-- proxy -->
+
+<!-- 流れ -->
+<div id="workflow">
+    <div class="content">
+    	<h1 class="title">WORKFLOW</h1>
+        <h2>How does it <span style="color:#FFCB54;">work</span>?</h2>
+        <hr/>
+        <p style="margin-bottom:40px;">Animate, PIXIV Booth, Toranoana, Rakuten, Amazon Japan, drug stores, tickets, etc..... Just send the details of the items you want to buy &amp; HAKUSAKU will try her best to get it for you!</p>
+        <div class="flex">
+        	<div class="img smartphone"><img src="../images/Workflow_smartphone_img1.png" width="100%"></div><!-- img -->
+        	<div class="img PC" id="img01"></div><!-- img -->
+            <div class="step">
+            	<div class="align">
+                    <h3>01</h3>
+                    <h4>Search</h4>
+                    <p>Find your item on the net &amp; provide HAKUSAKU the details of the product you want: URL, images, price in JPY, instructions, etc. A quotation of the product including tax &amp; domestic shipping fee will be given to you.</p>
+                </div><!-- align -->
+            </div><!-- step -->
+        </div><!-- flex -->
+        
+        <div class="flex">
+        	<div class="img smartphone"><img src="../images/Workflow_smartphone_img2.png" width="100%"></div><!-- img -->
+            <div class="step">
+            	<div class="align">
+                    <h3>02</h3>
+                    <h4>Order + First Payment</h4>
+                    <p>An invoice of the total cost including tax &amp; domestic shipping fee will be sent to you. <span>HAKUSAKU will only buy the items <u>AFTER</u> receiving your payment.</span></p>
+                    <a href="../index.html#fees" class="button">Fees and Charges ＞</a>
+                </div><!-- align -->
+            </div><!-- step -->
+        	<div class="img PC" id="img02"></div><!-- img -->
+        </div><!-- flex -->
+        
+        <div class="flex">
+        	<div class="img smartphone"><img src="../images/Workflow_smartphone_img3.png" width="100%"></div><!-- img -->
+        	<div class="img PC" id="img03"></div><!-- img -->
+            <div class="step">
+            	<div class="align">
+                    <h3>03</h3>
+                    <h4>Storing &amp; Packaging</h4>
+                    <p>Once HAKUSAKU order the items on your behalf, they will be shipped to her address, where you can combine them with other items &amp; have them shipped altogether. So, you can cut some costs on the international shipping fee!</p>
+                </div><!-- align -->
+            </div><!-- step -->
+        </div><!-- flex -->
+        
+        <div class="flex">
+        	<div class="img smartphone"><img src="../images/Workflow_smartphone_img4.png" width="100%"></div><!-- img -->
+            <div class="step">
+            	<div class="align">
+                    <h3>04</h3>
+                    <h4>Final Payment + Shipping</h4>
+                    <p>Your parcel will be weighed &amp; an invoice of the shipping fee will be sent to you. <span>After receiving your final payment, your item will be shipped to you.</span> You may choose from EMS or SAL for shipping method by Japan Post with tracking service.</p>
+                </div><!-- align -->
+            </div><!-- step -->
+        	<div class="img PC" id="img04"></div><!-- img -->
+        </div><!-- flex -->
+    </div><!-- content -->
+</div><!-- workflow -->
+
+
+<!-- 料金 -->
+<div id="fees">
+	<div class="content">
+    	<h1 class="title">FEES &amp; CHARGES</h1>
+        <h2>How much does it cost?</h2>
+        <hr/>
+        <p>There will be 2 separate payments.<br>
+        Payments will be accepted through STRIPE &amp; only Japanese yen will be used for all of the orders.<br>
+        The 1st payment will consist 10% commission fee of the total cost for your items.</p>
+    
+        <div class="payment">
+            <h5 style="font-size:1rem; padding-bottom:15px; margin:0 auto 20px auto; border-bottom:#FFF dotted 1px; text-align:center;">1st Payment</h5>
+            <h5 style="font-size:0.9rem; font-weight:normal; line-height:3ex;">Total cost = (product price + tax + local shipping fee) X 1.10</h5>
+        </div><!-- payment -->
+        
+        <div class="payment">
+            <h5 style="font-size:1rem; padding-bottom:15px; margin:0 auto 20px auto; border-bottom:#FFF dotted 1px; text-align:center;">2nd Payment</h5>
+            <ul>
+                <li>Standard Packaging Fee: 220yen<br>
+                (extra fees will be charged for more protection)</li>
+                <li>International Shipping Fee + 550yen<br>
+                (<a target="_blank" href="https://www.post.japanpost.jp/int/charge/list/parcel2_en.html"> Check INTERNATIONAL PARCEL POST rate schedule </a>)<br>
+                (<a target="_blank" href="https://www.post.japanpost.jp/int/charge/list/ems2_en.html"> Check EMS rate schedule </a>)</li>
+            </ul>
+        </div><!-- payment -->
+	</div><!-- content -->
+</div><!-- fees -->
+
+<!-- よくある質問 -->
+<div id="FAQ">
+	<div class="content">
+    	<h1 class="title">FAQ</h1>
+        <h2>I have questions!</h2>
+        <hr/>
+        <a href="../contact.html" class="button" id="contact_btn">CONTACT</a>
+        <p style="margin:20px 0 40px 0;">Feel free to contact HAKUSAKU if you have any questions or want to buy something from Japan!<br>
+        She will read your message &amp; reply you from 7:00pm to 10:00pm JST (weekdays) and 1:00pm to 10:00pm JST (weekends / Japan public holidays).</p>
+        
+        <details>
+        	<summary>
+            	<h3><span>Q1</span></h3>
+                <h4>What payment method do you accept?</h4>
+            </summary>
+            <p>HAKUSAKU accepts credit card payment through STRIPE</p>
+        </details>
+        
+        <details>
+        	<summary id="light">
+            	<h3><span>Q2</span></h3>
+                <h4>I don't understand the Japanese description of the item that I am interested in...</h4>
+            </summary>
+            <p>Don't worry! Just send the link to HAKUSAKU and she'll explain the description to you if you need any translation. You do have to pay until you are certain about the item and confirm the purchase.</p>
+        </details>
+        
+        <details>
+            <summary>
+            	<h3><span>Q3</span></h3>
+                <h4>Are there any items that can't be shipped internationally?</h4>
+            </summary>
+            <p style="margin-bottom:0;">Yes, there are items that can't be shipped overseas. Here is a list of some common prohibited items:</p>
+            <ul>
+            	<li>Flammable items (lighters, perfume, nail polish, spray cans, shock absorbers, etc.)</li>
+                <li>Plants and animals</li>
+                <li>Meat</li>
+                <li>Items that violate Japanese law</li>
+                <li>Currency</li>
+                <li>Air guns</li>
+                <li>Swords (including replicas)</li>
+                <li>Items restricted by the CITES Treaty</li>
+                <li>Adult goods</li>
+        </details>
+        
+        <details>
+        	<summary id="light">
+            	<h3><span>Q5</span></h3>
+                <h4>Can I cancel my order?</h4>
+            </summary>
+            <p>Cancellation is not allowed once HAKUSAKU has placed an order of your item.<br>
+            However, in exceptional cases, it might be possible to cancel an order for a 10% cancellation fee from your refund.</p>
+        </details>
+        
+        <details>
+            <summary>
+            	<h3><span>Q6</span></h3>
+                <h4>Is there a limit in weight or size of the items I buy?</h4>
+            </summary>
+            <p>Yes, your items must comply to the size and weight limits imposed by Japan Post:<br>
+            <a target="_blank" href="https://www.post.japanpost.jp/int/ems/size/index_en.html">List of EMS Size and Weight Limits</a></p>
+        </details>
+        
+        <details>
+            <summary id="light">
+            	<h3><span>Q7</span></h3>
+                <h4>How do I track my package?</h4>
+            </summary>
+            <p>Once the packaging and shipping fee have been settled, your package will be passed on to the carrier and its online tracking number will be available on your account interface. You can check your package's using the <a target="_blank" href="https://trackings.post.japanpost.jp/services/srv/search/?locale=en">Japan Post Track and Trace Service</a>.</p>
+        </details>
+        
+	</div><!-- content -->
+</div><!-- FAQ -->
+
+<!-- TemplateEndEditable -->
+
+<!-- トップへ戻る -->
+<button onclick="topFunction()" id="back_to_top" title="Back to top"><span style="font-size:1.2rem;">↼</span>　Back to Top</button>
+        
+<script>
+	//Get the button
+	var mybutton = document.getElementById("back_to_top");
+			
+	// When the user scrolls down 500px from the top of the document, show the button
+	window.onscroll = function() {scrollFunction()};
+			
+	function scrollFunction() {
+		if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+			mybutton.style.display = "block";
+			} else {
+			mybutton.style.display = "none";
+			}
+	}
+			
+	// When the user clicks on the button, scroll to the top of the document
+	function topFunction() {
+		document.body.scrollTop = 0;
+		document.documentElement.scrollTop = 0;
+	}
+</script>	
+
+
+
+<!-- 著作権 -->
+<h1 class="copyright">© 2023 ハクサク Hakusaku. All Rights Reserved.</h1>
+
+</body>
+</html>
