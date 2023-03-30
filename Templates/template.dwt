@@ -8,14 +8,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="google-site-verification" content="CYNRYlMaQLgMwJONZw3REr6dRGgExV6V2MjroiVJIVw" />
-
-<meta property="og:site_name" content="ハクサク HAKUSAKU, at your service ☆★"/>
-<meta property="og:title" content="ハクサク HAKUSAKU, at your service ☆★"/>
-<meta property="og:url" content="https://hakusaku1801.github.io/proxy-service/"/>
-<meta property="og:type" content="website"/>
-<meta property="og:description" content="ハクサク HAKUSAKU, at your service ☆★ Watercolor & digital artist | Website Developer | Proxy service from Japan to Malaysia & Singapore. I can help you buy things from Japan and ship to Malaysia/Singapore."/>
-
-<meta name="keywords" content="ハクサク,はくさく,Hakusaku,hakusaku1801,proxy service">
+<meta name="keywords" content="ハクサク,はくさく,Hakusaku,art commission,Japan to Malaysia proxy service,Buy from Japan">
 <meta name="description" content="ハクサク HAKUSAKU, at your service ☆★ Watercolor & digital artist | Website Developer | Proxy service from Japan to Malaysia & Singapore. I can help you buy things from Japan and ship to Malaysia/Singapore.">
 <meta name="viewport" content="width=device-width">
 <!-- TemplateBeginEditable name="doctitle" -->
@@ -56,7 +49,7 @@ Do the following if you're using your customized build of modernizr (http://www.
             <a href="../index.html#workflow">Workflow</a>
 			<a href="../index.html#fees">Fees &amp; Charges</a>
             <a href="../FAQ.html">FAQ</a>
-            <a href="../index.html#contact">Contact</a>
+            <a href="../contact.html">Contact</a>
 		</ul>
 	</nav>
 </header>

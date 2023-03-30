@@ -450,7 +450,7 @@ details > summary::-webkit-details-marker {
 	padding-bottom: 50px;
 }
 #contact table {
-	margin: 20px auto 30px auto;
+	margin: 20px auto 50px auto;
 	font-size: 1rem;
 }
 #contact table th {
@@ -474,7 +474,7 @@ details > summary::-webkit-details-marker {
 	width: 250px;
 	margin: 20px auto 0 auto;
 }
-#contact a {
+#contact .SNS a {
 	color: #333;
 	display: flex;
 	justify-content: center;
@@ -487,7 +487,7 @@ details > summary::-webkit-details-marker {
 	border-radius: 4px;
 	margin: 10px 0;
 }
-#contact a:hover {
+#contact .SNS a:hover {
 	opacity: 0.5;
 }
 #contact a p {
